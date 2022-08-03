@@ -24,10 +24,9 @@
   text-align: center;
 }
 
-a {
-  columns: white;
-  cursor: pointer;
-  text-decoration: inherit;
+.credit a {
+  text-decoration: none;
+  color: inherit;
 }
 
 .brand {
